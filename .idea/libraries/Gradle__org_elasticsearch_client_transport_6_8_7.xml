@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.elasticsearch.client:transport:6.8.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.client/transport/6.8.7/c0bf5a460747e49eb87ea5203cc42b2b92a24a5b/transport-6.8.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.client/transport/6.8.7/bcd6e79845abbe6444ab5f7a563afb535a1137a4/transport-6.8.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo.iml" filepath="$PROJECT_DIR$/.idea/modules/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_main.iml" group="demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_test.iml" group="demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/elasticSearchDemo.iml" filepath="$PROJECT_DIR$/.idea/elasticSearchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchDemo-elasticSearchDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchDemo-elasticSearchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchDemo_main.iml" group="elasticSearchDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticSearchDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticSearchDemo_test.iml" group="elasticSearchDemo" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+{
+  "dynamic": false,
+  "properties": {
+    "created": {
+      "type": "date",
+      "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd||epoch_millis"
+    },
+    "description": {
+      "type": "text",
+      "analyzer": "autocomplete_index",
+      "search_analyzer": "autocomplete_search"
+    },
+    "in_stock": {
+      "type": "long"
+    },
+    "is_active": {
+      "type": "boolean"
+    },
+    "name": {
+      "type": "text",
+      "analyzer": "autocomplete_index",
+      "search_analyzer": "autocomplete_search",
+      "fields": {
+        "keyword": {
+          "type": "keyword",
+          "ignore_above": 256
+        }
+      }
+    },
+    "price": {
+      "type": "double"
+    },
+    "sold": {
+      "type": "long"
+    },
+    "tags": {
+      "type": "text"
+    }
+  }
+}
